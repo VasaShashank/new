@@ -1,0 +1,16 @@
+
+body{
+    background-color: deeppink;
+}
+
+h1{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    font-style: italic;
+}
+p{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+    }
